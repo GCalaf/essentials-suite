@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        App theme based on Material 3 (Material You).
+        DayNight variant automatically switches between light and dark mode
+        based on the user's system setting — no extra code needed.
+    -->
+    <style name="Theme.SimpleNotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Use the sage green as the seed color for the Material color scheme -->
+        <item name="colorPrimary">@color/seed</item>
+    </style>
+</resources>

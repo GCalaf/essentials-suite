@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Foreground layer: a simple notepad/pencil icon in white -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notepad body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,28h40c2.2,0 4,1.8 4,4v44c0,2.2 -1.8,4 -4,4H34c-2.2,0 -4,-1.8 -4,-4V32c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Lines on the notepad -->
+    <path
+        android:fillColor="#5B7553"
+        android:pathData="M38,42h32v2H38zM38,50h32v2H38zM38,58h20v2H38z" />
+    <!-- Pencil -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M64,62l8,-8l4,4l-8,8z" />
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M64,66l-2,2l-2,-4l4,2z" />
+</vector>

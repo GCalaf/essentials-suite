@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Notes</string>
+    <string name="empty_notes">No notes yet.\nTap + to create one.</string>
+    <string name="add_note">Add note</string>
+    <string name="save_note">Save note</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_content">Write your note…</string>
+</resources>
